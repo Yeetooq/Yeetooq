@@ -1,4 +1,4 @@
-Hi ![](https://wdesk.ru/_ph/53/2/187423949.gif) My name is Roman
+Hi, my name is Roman ![](https://media.tenor.com/JLQ2QSxkNtAAAAAj/حتووميالحربي.gif) 
 =============================================================================================================================
 
 Python Developer
