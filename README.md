@@ -1,5 +1,17 @@
-Hi 👋 My name is Roman
-======================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman
+=============================================================================================================================
+
+Python Developer
+----------------
+
+I studied and graduated with honors from the courses: "TELEGRAM BOTS IN PYTHON 2.0" and "PARSER DEVELOPMENT 2.0" from Innopolis University, the leading IT university in Russia.
+
+* 🌍 I'm based in Russia, Moscow
+* ✉️ You can contact me at [roma20040402@gmail.com](mailto:roma20040402@gmail.com)
+* 🚀 I'm currently working on [Telegram Bot on Aiogram 3.4](http://t.me/yeetooq_bot)
+* 🧠 I'm learning telegram bots course on Aiogram 3.4 from YouTube channel $ sudo teach IT
+* 🤝 I'm open to collaborating on Interesting Python projects related to AI, telegram bots
+* ⚡ I dream of a BMW M6 Gran Coupe
 
 ### Skills
 
