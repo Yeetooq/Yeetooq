@@ -1,7 +1,7 @@
 Hi, my name is Roman ![](https://media.tenor.com/JLQ2QSxkNtAAAAAj/حتووميالحربي.gif) 
 =============================================================================================================================
 
-Python Developer
+Python Developer 🐍
 ----------------
 
 I studied and graduated with honors from the courses: "TELEGRAM BOTS IN PYTHON 2.0" and "PARSER DEVELOPMENT 2.0" from Innopolis University, the leading IT university in Russia.
